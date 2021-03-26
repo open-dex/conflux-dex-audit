@@ -1,0 +1,31 @@
+{
+    "eth": {
+        "minimalDeposit": 10000000000000000,
+        "minimalWithdraw": 50000000000000000,
+        "hot": "0x0000000000000000000000000000000000000000",
+        "initialBlock": 9935137
+    },
+    "usdt": {
+        "minimalDeposit": 1000000,
+        "minimalWithdraw": 2000000,
+        "hot": "0x0000000000000000000000000000000000000000",
+        "address": "0x0000000000000000000000000000000000000000"
+    },
+    "btc": {
+        "minimalDeposit": 100000,
+        "minimalWithdraw": 1000000,
+        "hot": "",
+        "cold": ""
+    },
+    "custodian": {
+        "prod": "",
+        "ppe": ""
+    },
+    "create2factory": {
+        "prod": "",
+        "ppe": ""
+    },
+    "ethfactory": {
+        "prod": ""
+    }
+}
